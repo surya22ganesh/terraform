@@ -1,5 +1,3 @@
-This code will create a DB and Read replica in default VPC.
-
 sudo yum update -y
 
 sudo yum install mysql -y
