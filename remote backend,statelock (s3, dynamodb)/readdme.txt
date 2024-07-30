@@ -1,0 +1,6 @@
+1) comment the backend.tf and apply the main.tf file to create the s3 and dynamo DB.
+
+2) then uncomment the backend.tf and run
+
+3) terraform init or terraform init -migrate-state.
+
