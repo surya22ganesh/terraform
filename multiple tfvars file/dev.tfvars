@@ -1,0 +1,1 @@
+ec2_env_tag = "dev ec2"
