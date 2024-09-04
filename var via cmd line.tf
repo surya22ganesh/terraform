@@ -20,10 +20,10 @@ resource "aws_instance" "k8s_client" {
 
 # To provide a value via command line use below commands
 
-1) terraform plan -var="ec2_instance_type=t2.micro" 
+# 1) terraform plan -var="ec2_instance_type=t2.micro" 
 
-2) terraform apply -var="ec2_instance_type=t2.micro"
+# 2) terraform apply -var="ec2_instance_type=t2.micro"
 
-NOTE:
+#NOTE:
 
-Even If default value is provided to variable, providing a value via command line -var will over write default value of a varaible.
+#Even If default value is provided to variable, providing a value via command line -var will over write default value of a varaible.
